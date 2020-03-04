@@ -1,0 +1,10 @@
+package Jenkins;
+
+public class Apple {
+	
+	private String appName = "Good Boy";
+	
+	public String getAppName() {
+		return appName;
+	}
+}
